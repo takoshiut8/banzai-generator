@@ -1,4 +1,4 @@
-var overlaySrc  'data:image/gif;base64,'+
+var overlaySrc = 'data:image/gif;base64,'+
 'R0lGODlhagH1AOfXAAAAADMAAGYAAJkAAMwAAP8AAAAzADMzAGYzAJkzAMwzAP8zAABmADNmAGZm'+
 'AJlmAMxmAP9mAACZADOZAGaZAJmZAMyZAP+ZAADMADPMAGbMAJnMAMzMAP/MAAD/ADP/AGb/AJn/'+
 'AMz/AP//AAAAMzMAM2YAM5kAM8wAM/8AMwAzMzMzM2YzM5kzM8wzM/8zMwBmMzNmM2ZmM5lmM8xm'+
